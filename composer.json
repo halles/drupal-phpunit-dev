@@ -58,5 +58,8 @@
                 "type:drupal-custom-theme"
             ]
         }
+    },
+    "require-dev": {
+        "behat/mink-goutte-driver": "^1.2"
     }
 }
